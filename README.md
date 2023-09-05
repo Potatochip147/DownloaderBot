@@ -71,7 +71,7 @@ Note: DRM Protected Videos Can be extracted.
 ### Installation
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+<a href="https://heroku.com/deploy?template=https://github.com/Potatochip147/DownloaderBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/prank)
